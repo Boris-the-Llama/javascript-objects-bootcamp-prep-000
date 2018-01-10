@@ -1,1 +1,3 @@
-var playlist = { 'Rihanna': 'Whats my name?' }
+var playlist = { 'Rihanna': 'Whats my name?' };
+
+function updatePlaylist() 
