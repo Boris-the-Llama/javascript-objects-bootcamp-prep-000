@@ -1,3 +1,3 @@
 var playlist = { 'Rihanna': 'Whats my name?' };
 
-function updatePlaylist() 
+function updatePlaylist(object, artist, ) 
