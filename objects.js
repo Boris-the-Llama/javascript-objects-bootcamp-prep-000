@@ -4,3 +4,4 @@ function updatePlaylist(object, artist, song) {
   Object.assign({}, object, {[artist]: song});
 }
 
+function delete
